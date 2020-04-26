@@ -12,3 +12,4 @@ Example Memory Wipe
 - [ ] Explain how it works in this README
 - [ ] Implement separate memory per Discord user
 - [ ] Fix infinite <|endoftext|> response 
+- [ ] Train model using Google Colab and OpenAI's 1558M model
